@@ -1,0 +1,1 @@
+enum ColorModes { light, dark }
